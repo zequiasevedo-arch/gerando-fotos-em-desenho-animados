@@ -1,0 +1,5 @@
+{
+  "name": "Pixarify Me",
+  "description": "Transform your photos into 3D animated movie characters using the power of Gemini.",
+  "requestFramePermissions": []
+}
